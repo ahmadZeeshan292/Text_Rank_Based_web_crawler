@@ -19,7 +19,7 @@ A **Trie-based** web crawler and search engine simulator designed to efficiently
 |-----------------|---------------------|
 | Avg. Search Time | 20-30 ms           |
 | Time Complexity | O(k) per query     |
-| Space Efficiency| 15*63*63 = 57,660  |
+| Space Complexity| 15x63x63 = 57,660  |
 
 ## 🤔 Why Trie?  
 While inverted indexes offer O(1) lookup *in theory*, their real-world performance suffers due to:  
