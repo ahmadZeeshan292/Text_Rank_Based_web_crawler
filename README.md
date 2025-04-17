@@ -1,9 +1,8 @@
 # Web Crawler and Search Engine Simulator  
 
-<img src="media/image1.png" width="100" height="100" align="left">
-<img src="media/image2.png" width="100" height="100" align="right">
-
-<br clear="both">
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![Data Structures](https://img.shields.io/badge/Topic-Data%20Structures-yellowgreen)
+![Algorithms](https://img.shields.io/badge/Topic-Algorithms-brightgreen)
 
 ## 📌 Overview  
 A **Trie-based** web crawler and search engine simulator designed to efficiently retrieve data from a local database of 50 files. Features include a GUI interface, frequency analysis, and optimized search operations.
